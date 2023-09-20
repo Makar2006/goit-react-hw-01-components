@@ -37,3 +37,6 @@
   background-color: teal;
   color: #ffffff;
 }
+.hidden {
+  display: none;
+}
